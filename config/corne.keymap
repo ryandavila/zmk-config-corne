@@ -34,7 +34,7 @@
                         bindings = <
    &kp GRAVE &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9    &kp N0 &kp BKSP
    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &kp LEFT &kp DOWN &kp UP &kp RIGHT &trans &trans
-   &kp LSHFT  &trans &trans &kp C_PLAY_PAUSE &kp C_VOLUME_DOWN   &kp C_VOLUME_UP    &trans   &trans   &trans  &trans  &trans  &trans
+   &kp LSHFT  &trans &kp C_PLAY_PAUSE &kp C_MUTE &kp C_VOLUME_DOWN   &kp C_VOLUME_UP    &trans   &trans   &trans  &trans  &trans  &trans
                                     &kp LGUI     &trans       &kp LCTRL      &kp SPACE  &trans   &kp RALT
                         >;
                 };
